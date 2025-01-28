@@ -192,6 +192,10 @@ grid-row:2/3;
     margin-top: 5px;
 }
 
+.uciri{
+    display:none;
+}
+
 
 footer{
     background-color: black;
